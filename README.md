@@ -16,6 +16,6 @@ https://www.kaggle.com/epa/toxic-release-inventory
 
 ### The Task distribution is as below:
 
-|    No     |                           Problem Statement                           |             File with Code               | Person In Charge |
-| --------- | --------------------------------------------------------------------- | ---------------------------------------- | -----------------|
-|     1     | Classification of chemicals which have the potential to cause CANCER. | TRI_Classification_of_Carcinogenic_Toxic |  Shailja Kartik  |
+|    No     |                    Problem Statement                |             File with Code               | Person In Charge |
+| --------- | --------------------------------------------------- | ---------------------------------------- | -----------------|
+|     1     | Classification of chemicals which have the potential to cause CANCER. | [TRI_Classification_of_Carcinogenic_Toxic](./TRI_Classification_of_Carcinogenic_Toxic.ipynb) |  Shailja Kartik  |
